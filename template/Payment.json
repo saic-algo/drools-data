@@ -1,0 +1,9 @@
+
+{
+    "com.microsoft.bingads.fraud.Passenger": {
+        "payment_id": 1,
+        "price": 29.8,
+        "discount": 9,
+        "form": 1
+    }
+}

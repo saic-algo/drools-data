@@ -1,0 +1,16 @@
+
+{
+    "com.microsoft.bingads.fraud.Passenger": {
+        "passenger_id": 1,
+        "phone": "13912345678",
+        "avg_rating": 4.7,
+        "num_rating": 12,
+        "register_time": 1529637000,
+        "last_login_time": 1529637000,
+        "last_logout_time": 1529637000,
+        "active": true,
+        "status": 1,
+        "mac": "00:14:22:01:23:45",
+        "ip": "192.68.0.1"
+    }
+}

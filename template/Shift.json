@@ -1,0 +1,9 @@
+{
+    "com.microsoft.bingads.fraud.Shift": {
+        "shift_id": 1,
+        "car_id": 1,
+        "driver_id": 1,
+        "start_time": 1529637000,
+        "end_time": 0
+    }
+}

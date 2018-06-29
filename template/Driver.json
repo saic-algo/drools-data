@@ -1,0 +1,19 @@
+{
+    "com.microsoft.bingads.fraud.Passenger": {
+        "driver_id": 1,
+        "phone": "13912345678",
+        "name": "张三",
+        "identity_card": "310000197706115139",
+        "driver_licence": "310004119602",
+        "gender": 1,
+        "avg_rating": 4.7,
+        "num_rating": 12,
+        "register_time": 1529637000,
+        "last_login_time": 1529637000,
+        "last_logout_time": 1529637000,
+        "active": true,
+        "status": 1,
+        "mac": "00:14:22:01:23:45",
+        "ip": "192.68.0.1"
+    }
+}

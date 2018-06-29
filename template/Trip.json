@@ -1,0 +1,37 @@
+{
+    "com.microsoft.bingads.fraud.Trip": {
+        "trip_id": 1,
+        "passenger_pickup_path": [{
+            "geo": {
+                "latitude": 0.0,
+                "longitude": 0.0,
+                "altitude": 0.0
+            },
+            "time": 1529637000
+        }],
+        "passenger_trip_path": [{
+            "geo": {
+                "latitude": 0.0,
+                "longitude": 0.0,
+                "altitude": 0.0
+            },
+            "time": 1529637000
+        }],
+        "driver_pickup_path": [{
+            "geo": {
+                "latitude": 0.0,
+                "longitude": 0.0,
+                "altitude": 0.0
+            },
+            "time": 1529637000
+        }],
+        "driver_trip_path": [{
+            "geo": {
+                "latitude": 0.0,
+                "longitude": 0.0,
+                "altitude": 0.0
+            },
+            "time": 1529637000
+        }]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "com.microsoft.bingads.fraud.Passenger": {
+        "order_id": 1,
+        "estimate_trip_time": 1200000,
+        "estimate_pickup_time": 60000,
+        "destination_geo": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude": 0.0
+        },
+        "passenger_location": {
+            "geo": {
+                "latitude": 0.0,
+                "longitude": 0.0,
+                "altitude": 0.0
+            },
+            "time": 1529637000
+        },
+        "car_location": {
+            "geo": {
+                "latitude": 0.0,
+                "longitude": 0.0,
+                "altitude": 0.0
+            },
+            "time": 1529637000
+        },
+        "car_id": 1,
+        "passenger_id": 1,
+        "driver_id": 1,
+        "time": 1529637000,
+        "status": 1
+    }
+}

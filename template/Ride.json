@@ -1,0 +1,40 @@
+{
+    "com.microsoft.bingads.fraud.Ride": {
+        "ride_id": 1,
+        "total_distance": 32.68,
+        "total_time": 1200000,
+        "destination_geo": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude": 0.0
+        },
+        "pickup_location": {
+            "geo": {
+                "latitude": 0.0,
+                "longitude": 0.0,
+                "altitude": 0.0
+            },
+            "time": 1529637000
+        },
+        "destination_location": {
+            "geo": {
+                "latitude": 0.0,
+                "longitude": 0.0,
+                "altitude": 0.0
+            },
+            "time": 1529637000
+        },
+        "car_id": 1,
+        "passenger_id": 1,
+        "passenger_rating": 5,
+        "driver_rating": 5,
+        "driver_id": 1,
+        "payment_id": 1,
+        "order_id": 1,
+        "status": 1,
+        "fraud": {
+            "score": 20.4,
+            "reason": [1]
+        }
+    }
+}

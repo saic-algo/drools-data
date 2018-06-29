@@ -1,0 +1,10 @@
+{
+    "com.microsoft.bingads.fraud.Location": {
+        "geo": {
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "altitude": 0.0
+        },
+        "time": 1529637000
+    }
+}

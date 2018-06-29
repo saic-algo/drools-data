@@ -1,0 +1,16 @@
+{
+    "com.microsoft.bingads.fraud.Car": {
+        "car_id": 1,
+        "license_plate": "沪A·88888",
+        "manufacture_year": 2020,
+        "active": true,
+        "location": {
+            "geo": {
+                "latitude": 0.0,
+                "longitude": 0.0,
+                "altitude": 0.0
+            },
+            "time": 1529637000
+        }
+    }
+}
